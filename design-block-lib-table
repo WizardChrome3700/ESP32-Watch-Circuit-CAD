@@ -1,0 +1,8 @@
+(design_block_lib_table
+	(version 7)
+	(lib (name "1-84952-0") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/1-84952-0") (options "") (descr ""))
+	(lib (name "LIB_ADS1256IDBR") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_ADS1256IDBR") (options "") (descr ""))
+	(lib (name "LIB_DS3231SN#") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_DS3231SN#") (options "") (descr ""))
+	(lib (name "LIB_MMC5983MA") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_MMC5983MA") (options "") (descr ""))
+	(lib (name "LIB_REF3312AIDCKR") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_REF3312AIDCKR") (options "") (descr ""))
+)

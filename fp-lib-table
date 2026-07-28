@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "LIB_MMC5983MA") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_MMC5983MA") (options "") (descr ""))
+	(lib (name "1x10FPC") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/1-84952-0") (options "") (descr ""))
+	(lib (name "LIB_DS3231SN#") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_DS3231SN#") (options "") (descr ""))
+	(lib (name "LIB_REF3312AIDCKR") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_REF3312AIDCKR") (options "") (descr ""))
+	(lib (name "NAV_SWITCH") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/NAV_SWITCH/NAV_SWITCH.pretty") (options "") (descr ""))
+	(lib (name "LIB_ADS1256IDBR") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/LIB_ADS1256IDBR") (options "") (descr ""))
+	(lib (name "FSR_IDC") (type "KiCad") (uri "${KIPRJMOD}/Project_Libraries/FSR_IDC") (options "") (descr ""))
+)
